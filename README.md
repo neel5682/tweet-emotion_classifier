@@ -12,11 +12,9 @@ Displays accuracy metrics and a confusion matrix for assessment.
 Usage
 Install dependencies:
 
-Copy code
 pip install nlp tensorflow
 Run the script:
 
-Copy code
 python tweet_emotion_classifier.py
 Dataset
 The tweet emotion dataset is loaded using the nlp library's load_dataset function.
